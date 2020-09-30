@@ -4,3 +4,5 @@ pop test
 pull test
 
 stash...
+
+fast-forward test
