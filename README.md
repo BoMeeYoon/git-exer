@@ -9,3 +9,6 @@ fast-forward test
 
 git pull 후에 고친다(3-way merge)
 3-way test
+
+
+rebase fast-forward
