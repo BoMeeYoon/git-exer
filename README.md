@@ -6,3 +6,5 @@ pull test
 stash...
 
 fast-forward test
+
+3-way test
